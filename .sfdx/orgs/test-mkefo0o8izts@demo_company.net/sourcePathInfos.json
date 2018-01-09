@@ -1,0 +1,257 @@
+[
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515401374227,
+            "changeTime": 1515401374227,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515401374228,
+            "changeTime": 1515401374228,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515497981023,
+            "changeTime": 1515497981023,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b"
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515401374233,
+            "changeTime": 1515401374233,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515401568564,
+            "changeTime": 1515401568564,
+            "contentHash": "ac8ebe8fbf8686ccd99613333554bc80e3ff17df",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app\\main\\default\\objects\\Account\\fields\\test_DX__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app\\main\\default\\objects\\Account\\fields\\test_DX__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 366,
+            "modifiedTime": 1515497980912,
+            "changeTime": 1515497980912,
+            "contentHash": "7b22b56ab6c996fcdcc56bef7c5120cc5924c0ff"
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9755,
+            "modifiedTime": 1515497980961,
+            "changeTime": 1515497980961,
+            "contentHash": "fb62dfc5b2187981ace1e318d5a6d8322571b816"
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9707,
+            "modifiedTime": 1515497980988,
+            "changeTime": 1515497980988,
+            "contentHash": "debc0ce4db214e76c74b67bdf06cadde9f4eaf22"
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9755,
+            "modifiedTime": 1515497981003,
+            "changeTime": 1515497981003,
+            "contentHash": "4ffacf38bcaf4adbc72dbd41b774e3151c0c4b96"
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9707,
+            "modifiedTime": 1515497981013,
+            "changeTime": 1515497981013,
+            "contentHash": "5cddea0c600609012c36beed96ea62f76a6ff085"
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4368,
+            "modifiedTime": 1515497981025,
+            "changeTime": 1515497981025,
+            "contentHash": "091e94f9f405c8c4284c210a384dc7d388612fda"
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4372,
+            "modifiedTime": 1515497981041,
+            "changeTime": 1515497981041,
+            "contentHash": "d325a2b7606f74b5802ba52cad84913f61d66849"
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4708,
+            "modifiedTime": 1515497981056,
+            "changeTime": 1515497981056,
+            "contentHash": "0ba3360dfbe3bd938c54770630ecf71479eb4510"
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17054,
+            "modifiedTime": 1515497981081,
+            "changeTime": 1515497981081,
+            "contentHash": "7484c496decb220b90ace74ad583aa3691accac1"
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515497980912,
+            "changeTime": 1515497980912,
+            "contentHash": "80bf9f10e159fe454c1daf4d0e993049308f94e2"
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515497980904,
+            "changeTime": 1515497980904,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515497980903,
+            "changeTime": 1515497980903,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515497981012,
+            "changeTime": 1515497981012,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\DX Demo\\DemoProject\\DX_Demo\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1515497981080,
+            "changeTime": 1515497981080,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
